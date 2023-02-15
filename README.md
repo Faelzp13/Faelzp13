@@ -17,9 +17,9 @@
   📞 If you want to contact me ⤵️
 </p>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/faelzp13)](https://github.com/fagnerpsantos)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-policena/)](https://www.linkedin.com/in/fagnerpsantos/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/faelp13)](https://twitter.com/fagnerpsantos)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/faelzp13)](https://github.com/faelzp13)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-policena/)](https://www.linkedin.com/in/rafael-policena/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/faelp13)](https://twitter.com/faelp13)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:cachera2112@gmail.com)](mailto:cachera2112@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/5551986194943?text=Ol%C3%A1+Rafael%21+Estou+entrando+em+contato+para...)](https://wa.me/5551986194943?text=Ol%C3%A1+Rafael%21+Estou+entrando+em+contato+para...)
 </p>  
