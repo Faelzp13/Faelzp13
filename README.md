@@ -8,9 +8,6 @@
 
 Sou um profissional apaixonado por **Tecnologia** com foco na área de **Dados (Data Science e Analytics)**.
 
-
-### 🧠 Valores e Objetivo de Carreira
-
 Como um estoico nato, busco a **sabedoria e inteligência constante**.
 
 * Estudei **Javascript** no meu ensino técnico, o que me fez aprender a lógica da programação e a fazer sites básicos junto com **HTML** e **CSS**.
