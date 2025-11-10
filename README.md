@@ -8,17 +8,16 @@
 
 Sou um profissional apaixonado por **Tecnologia** com foco na área de **Dados (Data Science e Analytics)**.
 
----
 
 ### 🧠 Valores e Objetivo de Carreira
 
-Como um estoico nato, busco a **sabedoria e inteligência constante**. É por isso que **dou um valor imenso aos dados**.
+Como um estoico nato, busco a **sabedoria e inteligência constante**.
 
-> **Acredito que os dados mostram a realidade de forma mais fiel do que frases das bocas das pessoas.**
+* Estudei **Javascript** no meu ensino técnico, o que me fez aprender a lógica da programação e a fazer sites básicos junto com **HTML** e **CSS**.
+* Tenho trabalhado com projetos para análise de dados utilizando a linguagem **Python** para me auxiliar no processo de grandes quantidades de dados.
+* Utilizei **LUA** para criação de servidores baseados no jogo "Tibia", desde hospedagem e site, até o servidor, banco de dados e novos sistemas. Também utilizei **LUAU** para criação de sistemas para diversos jogos no "Roblox".
 
-Minhas soft skills incluem uma grande facilidade em **gerenciar projetos** e ser extremamente **organizado** em todas as coisas que faço—habilidades essenciais para extrair valor e insights de qualquer conjunto de dados.
-
----
+Minhas soft skills incluem uma grande facilidade em **gerenciar projetos** e ser extremamente **organizado** em todas as coisas que faço.
 
 ### 💖 Além do Raciocínio Lógico
 
