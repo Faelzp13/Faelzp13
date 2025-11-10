@@ -6,6 +6,8 @@
 
 ## 📊 Rafael Antônio Policena
 
+
+
 Sou um profissional apaixonado por **Tecnologia** com foco na área de **Dados (Data Science e Analytics)**.
 
 Como um estoico nato, busco a **sabedoria e inteligência constante**.
