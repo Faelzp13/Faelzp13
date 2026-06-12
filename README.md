@@ -1,34 +1,36 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  👋 Olá! Seja Bem-vindo(a) ao meu perfil!
-</p>
+  
+### 👋 Hi, I'm Rafael Policena
 
-## 📊 Rafael Antônio Policena
+**Data Engineer | Computer Science Student**
 
+I am a professional highly focused on **Data Engineering and Analytics**. Currently working as a **Junior IT Assistant at Grupo Recicla** and pursuing my degree in **Computer Science at UniRitter** (Expected 2027).
 
+Guided by a Stoic mindset, I focus on building resilient architectures, continuous learning, and making objective, data-driven decisions. My goal is to develop robust data pipelines and build a solid foundation to expand my career internationally.
 
-Sou um profissional apaixonado por **Tecnologia** com foco na área de **Dados (Data Science e Analytics)**.
+### 🛠️ Tech Stack & Skills
+* **Data Engineering:** ETL/ELT Pipelines, Apache Parquet
+* **Languages:** Python, SQL
+* **Data & BI Tools:** Databricks, Power BI, DAX, Pandas
+* **Soft Skills:** Logical Reasoning, Project Management, and highly organized workflows
 
-Como um estoico nato, busco a **sabedoria e inteligência constante**.
+### 🚀 Featured Projects
+* **[Third-Party Documents Management Pipeline](https://github.com/faelzp13/third-party-docs-management):** An automated Data Engineering pipeline using Python to extract, clean, and consolidate corporate documents into a Parquet-based Medallion Architecture, feeding a Power BI compliance dashboard.
+* **[Skin Insight Engine](https://github.com/Faelzp13/skin-insight-engine):** A Python-based data extraction and analytics pipeline built to monitor the Counter-Strike 2 (CS2) digital economy. The tool utilizes web scraping and consumes external APIs to consolidate pricing data across multiple third-party marketplaces and the official Steam platform, enabling automated price comparison and arbitrage analysis.
+* **[NFe XML Automation Pipeline](https://github.com/Faelzp13/nfe-xml-to-pdf-automation):** A Python automation project designed to process and visualize NFe (Nota Fiscal Eletrônica) XML files and extract structured data from DANFEs.
 
-* Estudei **Javascript** no meu ensino técnico, o que me fez aprender a lógica da programação e a fazer sites básicos junto com **HTML** e **CSS**.
-* Tenho trabalhado com projetos para análise de dados utilizando a linguagem **Python** para me auxiliar no processo de grandes quantidades de dados.
-* Utilizei **LUA** para criação de servidores baseados no jogo "Tibia", desde hospedagem e site, até o servidor, banco de dados e novos sistemas. Também utilizei **LUAU** para criação de sistemas para diversos jogos no "Roblox".
-
-Minhas soft skills incluem uma grande facilidade em **gerenciar projetos** e ser extremamente **organizado** em todas as coisas que faço.
-
-### 💖 Além do Raciocínio Lógico
-
-Amo a tecnologia, mas também recarrego as energias com:
-* 🎮 Jogos
-* 🌳 Natureza, Vida Marinha
-* 🌌 Galáxias e Astronomia
+### 🌌 Beyond the Code
+When I'm not building pipelines or studying data architecture, I recharge my energy by:
+* 🎮 Playing competitive games
+* 🐠 My family and friends
+* 🌌 Reading about Astronomy and Marine Life
 
 ---
 
 <p align="left">
-  📞 Se quiser me encontrar, fique à vontade para me enviar uma mensagem e explorar meus projetos diversos ⤵️
+  📞 Let's connect! Feel free to reach out to discuss data, automation, or technology ⤵️
 </p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/faelzp13)](https://github.com/faelzp13)
