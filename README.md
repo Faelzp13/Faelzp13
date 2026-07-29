@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador Rafael">
 
 <p align="left">
   
@@ -9,6 +9,10 @@
 I am a professional highly focused on **Data Engineering and Analytics**. Currently working as a **Junior IT Assistant at Grupo Recicla** and pursuing my degree in **Computer Science at UniRitter** (Expected 2027).
 
 Guided by a Stoic mindset, I focus on building resilient architectures, continuous learning, and making objective, data-driven decisions. My goal is to develop robust data pipelines and build a solid foundation to expand my career internationally.
+
+<a href="https://www.credly.com/badges/440622bf-bf1f-4532-91c1-29b0edb068d6/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" min-width="150px" max-width="150px" width="150px" align="right" alt="Google Certified: Data Analytics Associate">
+</a>
 
 ### 🛠️ Tech Stack & Skills
 * **Data Engineering:** ETL/ELT Pipelines, Apache Parquet
